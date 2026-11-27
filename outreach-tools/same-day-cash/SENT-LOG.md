@@ -255,3 +255,12 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Unique To You Corstorphine | info.unique2you@gmail.com | 1a21f52a56025d73 | SENT |
 | Close Cut Barber Colinton | closebarbers@gmail.com | 1a21f52aadc6fad7 | SENT |
 | Cafe Scozzese Cumbernauld | cafescozzese@gmail.com | 1a21f52aea420892 | SENT |
+| Eclipz Barber Dingwall | eclipzdingwall@gmail.com | 1a21f6ea792b53bd | SENT |
+| Dani's Cuts Wick | daniscuts@gmail.com | 1a21f6ebf18cfe3c | SENT |
+| Highland Haven Thurso | thehighlandhaven@gmail.com | 1a21f6ec52f21dac | SENT |
+| McIntee Barbering Kelso | Mcinteebarbering@gmail.com | 1a21f6ec8b421989 | SENT |
+| LuLu's Whitburn | lulusarmadale@gmail.com | 1a21f6ed366d9d74 | SENT |
+| Coffee House Montrose | thecoffeeshouseltd@gmail.com | 1a21f6efc9d145d1 | SENT |
+| Tomorrow Is Another Day | tomorrowisanotherdaycoffee@gmail.com | 1a21f6f01b05355f | SENT |
+| Toni Marlow Barber | toni.marlow.tm@gmail.com | 1a21f6f07c6ba397 | SENT |
+| SD Barbering Stonehouse | scott.dillon173@gmail.com | 1a21f6f0b1516c31 | SENT |
