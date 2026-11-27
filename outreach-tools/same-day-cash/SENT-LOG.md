@@ -222,3 +222,14 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Blond Noir Bellshill | blondnoirscotland@gmail.com | 1a21efd47753af80 | SENT |
 | Billy's Cafe Shotts | billywilliamsbarton@gmail.com | 1a21efd4d3505da5 | SENT |
 | Grounded Cafe Irvine | Grounded.at.pg@gmail.com | 1a21efd501e4c3bd | SENT |
+| Billy's Cafe Shotts | billywilliamsbarton@gmail.com | 1a21efd4d3505da5 | BOUNCED — address not found |
+| CoCo Beauty Fort William | chloeangelina.cocobeauty@gmail.com | 1a21f198f7f6c566 | SENT |
+| Barber Ryan Fort William | 98barbering@gmail.com | 1a21f1992ed5bf93 | SENT |
+| Cafe Casablanca Maryhill | cafecasablanca21@gmail.com | 1a21f19999e4029e | SENT |
+| Gordon Family Barber | thegfbarbershop@gmail.com | 1a21f199f7ae58a6 | SENT |
+| Ray's Barber Shawlands | raymondsimons67@gmail.com | 1a21f19a39788869 | SENT |
+| Little Bay Cafe Oban | roberttmckay@gmail.com | 1a21f19b51ac7fee | SENT |
+| Isle of Lismore Cafe | isleoflismorecafe@gmail.com | 1a21f19ba4b25ed9 | SENT |
+| Bridge Cafe Oban | bridgecafeoban@gmail.com | 1a21f19bea2db557 | SENT |
+| MY SPACE Shettleston | bs.obajtek@gmail.com | 1a21f19dca4015d2 | SENT |
+| Freak Boutique Glasgow | freakboutiqueglasgow@gmail.com | 1a21f19e5d49052b | SENT |
