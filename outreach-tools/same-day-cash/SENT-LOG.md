@@ -106,3 +106,12 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Clark's Canines | clarkscaninesgrooming@gmail.com | 1a21ddd648c82b5a | SENT |
 | The Ramshackles Cafe Dunbar | ramshacklescafe@gmail.com | 1a21ddd90ccafc56 | SENT |
 | Vanity Male Image Dunbar | vanitymaleimage@gmail.com | 1a21ddd94ab58716 | SENT |
+| Alex Thaddeus Cupar | alexthaddeussalon@gmail.com | 1a21df9ed02c4d10 | SENT |
+| Crown of Honour Hair Leven | crown.of.honour.hair@gmail.com | 1a21df9f329fd85a | SENT |
+| Alan Cuts Glenrothes | alandagha55@gmail.com | 1a21df9fa483ffd8 | SENT |
+| Cooks Cafe Methil | cookscafemethil@gmail.com | 1a21dfa03c4ae138 | SENT |
+| Rosa's Beauty Room | rosasbeautyroom@gmail.com | 1a21dfafdd7888fe | SENT |
+| Lucia's Beauty Room | luciasbeautyroom@gmail.com | 1a21dfb05d475ae2 | SENT |
+| Bager Mobile Barber | bagerbarber@gmail.com | 1a21dfbc276d182a | SENT |
+| Plush Paws Dog Grooming | 4pawsatno6@gmail.com | 1a21dfbcb3f3f15e | SENT |
+| Happy Tails Dog Grooming | catwinchester10@gmail.com | 1a21dfc0703f2b65 | SENT |
