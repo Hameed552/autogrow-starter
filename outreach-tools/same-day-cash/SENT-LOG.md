@@ -31,3 +31,18 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 
 - No Stripe/PayPal payment link found in Gmail — create £97 / £147 / £199 links so replies can pay immediately
 - Inkbox has no phone number — cannot auto-call; you must dial Sunnyside: **07725 910852**
+
+## NEW clients only (pivot after Sunnyside kill)
+
+| Business | Email | Message ID | Status |
+|---|---|---|---|
+| The Wee Coffee Box | info.theweecoffeebox@gmail.com | 1a21d33da121b516 | SENT |
+| Bare Beauty | barebeautyleith@gmail.com | 1a21d33e241d3fa6 | SENT |
+| Claremont Motors | info@edinburghhondaspecialists.co.uk | 1a21d33ec84050de | SENT |
+| Harrison Motors | Harrisonmotors1984@gmail.com | 1a21d33f5e002548 | SENT |
+| Bijou Hair | info@bijou-hair.co.uk | 1a21d33fd0c3cf18 | SENT |
+| Cascal Hair Studio | cass.cascal@aol.com | 1a21d35021f86846 | SENT |
+| Stockbridge Plumbing Solutions | john.selcraig@btinternet.com | 1a21d350b0cc839f | SENT |
+| Pretty Paws Dog Grooming | prettypawsmobileboutique@gmail.com | 1a21d351394d875a | SENT |
+
+**Do not pursue:** Sunnyside Garage (burned / unpaid dispute).
