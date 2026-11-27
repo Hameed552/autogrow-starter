@@ -233,3 +233,14 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Bridge Cafe Oban | bridgecafeoban@gmail.com | 1a21f19bea2db557 | SENT |
 | MY SPACE Shettleston | bs.obajtek@gmail.com | 1a21f19dca4015d2 | SENT |
 | Freak Boutique Glasgow | freakboutiqueglasgow@gmail.com | 1a21f19e5d49052b | SENT |
+| Rendezvous Cafe Inverness | rendezvouscafe6@gmail.com | 1a21f35ece41be41 | SENT |
+| Uddin Cuts Inverness | uddin.cuts@gmail.com | 1a21f35f045d4d72 | SENT |
+| Hair By Gregor Inverness | hairbygregor@gmail.com | 1a21f35f4a909f78 | SENT |
+| El Clasico Barber Aberdeen | anakashopaberdeen@gmail.com | 1a21f361376308ec | SENT |
+| Urban Cutz Aberdeen | urbancutzltd@gmail.com | 1a21f36176154a94 | SENT |
+| Zayn The Barber Stonehaven | zaynthebarber98@gmail.com | 1a21f361c480ec69 | SENT |
+| Gilmerton Barber Edinburgh | gilmertonbarber@gmail.com | 1a21f3620ddd76ee | SENT |
+| The Snug Alves | thesnugalves@gmail.com | 1a21f3627f04616e | SENT |
+| Coffee Belleview Elgin | koch.lydi@gmail.com | 1a21f363d263b281 | SENT |
+| Prestige Plumbing | info.prestigeplumbing@gmail.com | 1a21f365d14b86c0 | SENT |
+| Jadmie Plumbing | Jadmie2@gmail.com | 1a21f366389bd7bc | SENT |
