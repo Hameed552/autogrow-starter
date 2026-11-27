@@ -42,10 +42,13 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Harrison Motors | Harrisonmotors1984@gmail.com | 1a21d33f5e002548 | SENT |
 | Bijou Hair | info@bijou-hair.co.uk | 1a21d33fd0c3cf18 | SENT |
 | Cascal Hair Studio | cass.cascal@aol.com | 1a21d35021f86846 | SENT |
-| Stockbridge Plumbing Solutions | john.selcraig@btinternet.com | 1a21d350b0cc839f | SENT |
+| Stockbridge Plumbing Solutions | john.selcraig@btinternet.com | 1a21d350b0cc839f | BOUNCED (btinternet spam block) |
 | Pretty Paws Dog Grooming | prettypawsmobileboutique@gmail.com | 1a21d351394d875a | SENT |
 | The Sly Fox | slyfoxfood@gmail.com | 1a21d3733458ca4e | SENT |
 | Hombres / Peluquero de Hombres | hombresedinburgh@gmail.com | 1a21d37b65384f63 | SENT |
 | Edinburgh Dog Groomers (Restalrig) | Edinburghdoggroomers@gmail.com | 1a21d37ead74c4d5 | SENT |
 
 **Do not pursue:** Sunnyside Garage (burned / unpaid dispute). Old October reopen threads deprioritized.
+| Poppy Cafe Stockbridge | poppycafestockbridge@gmail.com | 1a21d4b92a158a87 | SENT |
+| Portobello Nails | portobellobeautysalon15@gmail.com | 1a21d4b9bd9117a2 | SENT |
+| chance and tommy's | hello@chanceandtommys.com | pending | SENT |
