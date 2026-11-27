@@ -62,3 +62,24 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Quaid (freelance stylist) | quaid.enquiries@gmail.com | 1a21d8e625c52bb4 | SENT |
 | SOHO Makeup Hair & Beauty Bar | sohomakeuphairandbeauty@yahoo.com | 1a21d8e86ff4f8d1 | SENT |
 | That Guy Barber Studio | thatguybarberstudio@gmail.com | 1a21d8e9d6dd3029 | SENT |
+| Sam's Barber Shop Bonnyrigg | samfleming29@gmail.com | 1a21d9fa38b4e637 | SENT |
+| Café 24 Haddington | cafe24haddington@gmail.com | 1a21d9fa8eb6ea9f | SENT |
+| Beautiful Hermosa | beautifulhermosa2016@gmail.com | 1a21da0ac412fec5 | SENT |
+| Creation Beauty Musselburgh | creationbeauty@icloud.com | 1a21da0b3af5ece2 | SENT |
+| FadeZ Barbers Bonnyrigg | fadezbarbersbonnyrigg@gmail.com | 1a21da0f7d0279de | SENT |
+| Be You Beauty by Hannah | be.you.beautybyhannah@gmail.com | 1a21da126c541197 | SENT |
+| Brash Beauty Haddington | hello@brashbeauty.uk.app | 1a21da12fb6591b0 | SENT |
+| Mr Jim Barber Shop | mr.jimbarbershop@gmail.com | 1a21da15807286cb | SENT |
+| Chapman's Barbers Livingston | graemechapman081@gmail.com | 1a21da1619c08128 | SENT |
+| Livingston Barber and Beauty | hmfic1975@gmail.com | 1a21da1683e89077 | SENT |
+| Kingsman Barbers Bathgate | kingsmanbarbersbathgate@gmail.com | 1a21da22f2645666 | SENT |
+| The Dollhouse Linlithgow | thedollhouselinlithgow@gmail.com | 1a21da2359d63bde | SENT |
+| The Beauty Barn by Katie | thebeautybarnbykatie@gmail.com | 1a21da23c76d11c2 | SENT |
+| Roj Barber Bathgate | mahmialan@gmail.com | 1a21da24326103cd | SENT |
+| Elevate Beauty Linlithgow | elevatelinlithgow@gmail.com | 1a21da248ed6b3c6 | SENT |
+| LuLu's Nail and Beauty | luluslinlithgow@gmail.com | 1a21da25153210bb | SENT |
+| Cut & Tide Barber Shop | armutilyas201@gmail.com | 1a21da277fb7ebf7 | SENT |
+| Carnethy Groomers | carnethygroomers@gmail.com | 1a21da3201dedc04 | SENT |
+| Mosso Cafe Penicuik | mossocafee@gmail.com | 1a21da327808b174 | SENT |
+| The Treehouse Cafe | treehousecafe.enquiries@gmail.com | 1a21da32f75db088 | SENT |
+| Santori Vince Nails | santorivince@gmail.com | 1a21da33545af3ee | SENT |
