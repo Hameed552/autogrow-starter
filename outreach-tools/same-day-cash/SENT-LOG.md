@@ -115,3 +115,13 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Bager Mobile Barber | bagerbarber@gmail.com | 1a21dfbc276d182a | SENT |
 | Plush Paws Dog Grooming | 4pawsatno6@gmail.com | 1a21dfbcb3f3f15e | SENT |
 | Happy Tails Dog Grooming | catwinchester10@gmail.com | 1a21dfc0703f2b65 | SENT |
+| Oura Beauty Glenrothes | ourabeautyltd@gmail.com | 1a21e18525fbcb09 | SENT |
+| KM Beauty Therapy | Beautytherapybykm@gmail.com | 1a21e185b0474dff | SENT |
+| Moustache Turkish Barber | bulentozer39@gmail.com | 1a21e185efa7f4eb | SENT |
+| Istanbul Hair Salon Kirkcaldy | mahmutgulbal@gmail.com | 1a21e18823605d06 | SENT |
+| Kb Studio Lash | brunkabrunka5@gmail.com | 1a21e1885dab4902 | SENT |
+| Sinwaxing Edinburgh | sinwaxing@gmail.com | 1a21e188943e988b | SENT |
+| Beauty Touch Edinburgh | beautytouchedinburgh@gmail.com | 1a21e18ae9718f3e | SENT |
+| Blushandbrowz | blushandbrowz10@gmail.com | 1a21e18b5256d104 | SENT |
+| Cafe Wynd Dunfermline | cafewynd@gmail.com | 1a21e18b87d8391d | SENT |
+| RagDolls / Guy & Dolls | guysandolls2022@gmail.com | 1a21e18d2bb2ece9 | SENT |
