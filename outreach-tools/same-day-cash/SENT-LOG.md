@@ -244,3 +244,14 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Coffee Belleview Elgin | koch.lydi@gmail.com | 1a21f363d263b281 | SENT |
 | Prestige Plumbing | info.prestigeplumbing@gmail.com | 1a21f365d14b86c0 | SENT |
 | Jadmie Plumbing | Jadmie2@gmail.com | 1a21f366389bd7bc | SENT |
+| Quarter Cake Annan | qccannan@gmail.com | 1a21f525695f8239 | SENT |
+| Peedie Salon Kirkwall | thepeediesalon@gmail.com | 1a21f5258a6226ef | SENT |
+| Peerie Shop Cafe Lerwick | peerieshop@gmail.com | 1a21f525f79b487a | SENT |
+| Cafe Cabana Stornoway | cafecabanasty@gmail.com | 1a21f52632d9ecbb | SENT |
+| Cuts & Shaves Joanne | maciverjoanne1@gmail.com | 1a21f5269042369d | SENT |
+| Royal Cafe Stranraer | theroyalcafe78@gmail.com | 1a21f527bf6795dc | SENT |
+| GTs Cafe Skye | gtsskye25@gmail.com | 1a21f529af019911 | SENT |
+| Village Cafe Corstorphine | thevillagecafecorstorphine@gmail.com | 1a21f529ff464a16 | SENT |
+| Unique To You Corstorphine | info.unique2you@gmail.com | 1a21f52a56025d73 | SENT |
+| Close Cut Barber Colinton | closebarbers@gmail.com | 1a21f52aadc6fad7 | SENT |
+| Cafe Scozzese Cumbernauld | cafescozzese@gmail.com | 1a21f52aea420892 | SENT |
