@@ -44,5 +44,8 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Cascal Hair Studio | cass.cascal@aol.com | 1a21d35021f86846 | SENT |
 | Stockbridge Plumbing Solutions | john.selcraig@btinternet.com | 1a21d350b0cc839f | SENT |
 | Pretty Paws Dog Grooming | prettypawsmobileboutique@gmail.com | 1a21d351394d875a | SENT |
+| The Sly Fox | slyfoxfood@gmail.com | 1a21d3733458ca4e | SENT |
+| Hombres / Peluquero de Hombres | hombresedinburgh@gmail.com | 1a21d37b65384f63 | SENT |
+| Edinburgh Dog Groomers (Restalrig) | Edinburghdoggroomers@gmail.com | pending | SENT |
 
-**Do not pursue:** Sunnyside Garage (burned / unpaid dispute).
+**Do not pursue:** Sunnyside Garage (burned / unpaid dispute). Old October reopen threads deprioritized.
