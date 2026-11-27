@@ -58,3 +58,7 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Hairstyles by Oliwia | hairstyles.by.oliwia@gmail.com | 1a21d716b97be97a | SENT |
 | Pinkie Parlour | pinkieparlour@gmail.com | 1a21d7175e2d4350 | SENT |
 | Lady Boss Hair & Beauty | ladybossacademy24@gmail.com | 1a21d71838c5a898 | SENT |
+| Woofers Dog Grooming | emma.woofersdoggrooming@gmail.com | 1a21d8e56bde716c | SENT |
+| Quaid (freelance stylist) | quaid.enquiries@gmail.com | 1a21d8e625c52bb4 | SENT |
+| SOHO Makeup Hair & Beauty Bar | sohomakeuphairandbeauty@yahoo.com | 1a21d8e86ff4f8d1 | SENT |
+| That Guy Barber Studio | thatguybarberstudio@gmail.com | 1a21d8e9d6dd3029 | SENT |
