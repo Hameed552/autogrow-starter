@@ -94,3 +94,15 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Boss Barbers Musselburgh | bossbarbers84@gmail.com | 1a21dbfeb85de28e | SENT |
 | Power Barbershop | tyra.reekie@gmail.com | 1a21dbff1e2bc63c | SENT |
 | FI Hair Linlithgow | fihairlinlithgow@gmail.com | 1a21dc007666b5c7 | SENT |
+| Boss Barbers Musselburgh | bossbarbers84@gmail.com | 1a21dbfeb85de28e | BOUNCED (bad address — call 07480 231072) |
+| Untitled Barber Club Stirling | untitledbarberclub@gmail.com | 1a21ddd12dee2e47 | SENT |
+| AC Signature Beans | acbeanscoffeetrailer@gmail.com | 1a21ddd1b6f2c6e9 | SENT |
+| Crossgates Barber | crossgatesbarber@gmail.com | 1a21ddd23b439c01 | SENT |
+| Sammi's Unisex Barbers | vixbarber@gmail.com | 1a21ddd29e98684d | SENT |
+| NGB Lochgelly | ngblochgelly@gmail.com | 1a21ddd31844c626 | SENT |
+| Mood Barbershop Lochgelly | moodbarbershop.c.m@gmail.com | 1a21ddd37aa9fbbe | SENT |
+| Howl & Hound Edinburgh | howlandhoundedinburgh@gmail.com | 1a21ddd3fef16ae0 | SENT |
+| Head2Tailz Peebles | annika.hayden@gmail.com | 1a21ddd46b97a74b | SENT |
+| Clark's Canines | clarkscaninesgrooming@gmail.com | 1a21ddd648c82b5a | SENT |
+| The Ramshackles Cafe Dunbar | ramshacklescafe@gmail.com | 1a21ddd90ccafc56 | SENT |
+| Vanity Male Image Dunbar | vanitymaleimage@gmail.com | 1a21ddd94ab58716 | SENT |
