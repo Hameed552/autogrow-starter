@@ -51,4 +51,4 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 **Do not pursue:** Sunnyside Garage (burned / unpaid dispute). Old October reopen threads deprioritized.
 | Poppy Cafe Stockbridge | poppycafestockbridge@gmail.com | 1a21d4b92a158a87 | SENT |
 | Portobello Nails | portobellobeautysalon15@gmail.com | 1a21d4b9bd9117a2 | SENT |
-| chance and tommy's | hello@chanceandtommys.com | pending | SENT |
+| chance and tommy's | hello@chanceandtommys.com | 1a21d4c6ef2eea01 | SENT |
