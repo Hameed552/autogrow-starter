@@ -212,3 +212,13 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | The Lookout Troon | thelookouttroon@gmail.com | 1a21ee0f82de977e | SENT |
 | Kaz Barber Kilmarnock | kazbarberki@gmail.com | 1a21ee0ff5eb2d70 | SENT |
 | Unique Cuts Ayr | unique.cuts.140@gmail.com | 1a21ee1038c783a4 | SENT |
+| Sandra's Cafe Alexandria | reillysandra422@gmail.com | 1a21efd0d7dc63e3 | SENT |
+| Danny's Barber Prestwick | danonthetee@gmail.com | 1a21efd0f31389df | SENT |
+| C K Hair Helensburgh | ckhairx@gmail.com | 1a21efd233e69d17 | SENT |
+| Salon 17 Largs | s17largs@gmail.com | 1a21efd282b823a0 | SENT |
+| Cafe Rhu Helensburgh | caferhumarina@gmail.com | 1a21efd2c05ad8e4 | SENT |
+| The Beauty Gem Irvine | gemmacalvin1@gmail.com | 1a21efd3257bb467 | SENT |
+| Cool Cut Bellshill | cool.cut023@gmail.com | 1a21efd382955ddf | SENT |
+| Blond Noir Bellshill | blondnoirscotland@gmail.com | 1a21efd47753af80 | SENT |
+| Billy's Cafe Shotts | billywilliamsbarton@gmail.com | 1a21efd4d3505da5 | SENT |
+| Grounded Cafe Irvine | Grounded.at.pg@gmail.com | 1a21efd501e4c3bd | SENT |
