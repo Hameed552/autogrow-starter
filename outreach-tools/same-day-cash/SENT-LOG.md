@@ -52,3 +52,6 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Poppy Cafe Stockbridge | poppycafestockbridge@gmail.com | 1a21d4b92a158a87 | SENT |
 | Portobello Nails | portobellobeautysalon15@gmail.com | 1a21d4b9bd9117a2 | SENT |
 | chance and tommy's | hello@chanceandtommys.com | 1a21d4c6ef2eea01 | SENT |
+| The Beauty Lounge by Lynzi | thebeautylounge.lynzi@outlook.com | 1a21d54a4b187758 | SENT |
+| The Heating Guy Edinburgh | stevenrcrease@outlook.com | 1a21d54a820a1949 | SENT |
+| Preets Beauty Lounge | hairmagicbypreet@gmail.com | 1a21d54ae7286720 | SENT |
