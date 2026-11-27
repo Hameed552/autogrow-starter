@@ -55,3 +55,6 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | The Beauty Lounge by Lynzi | thebeautylounge.lynzi@outlook.com | 1a21d54a4b187758 | SENT |
 | The Heating Guy Edinburgh | stevenrcrease@outlook.com | 1a21d54a820a1949 | SENT |
 | Preets Beauty Lounge | hairmagicbypreet@gmail.com | 1a21d54ae7286720 | SENT |
+| Hairstyles by Oliwia | hairstyles.by.oliwia@gmail.com | 1a21d716b97be97a | SENT |
+| Pinkie Parlour | pinkieparlour@gmail.com | 1a21d7175e2d4350 | SENT |
+| Lady Boss Hair & Beauty | ladybossacademy24@gmail.com | 1a21d71838c5a898 | SENT |
