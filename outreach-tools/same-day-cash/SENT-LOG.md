@@ -148,3 +148,15 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | TIJ Barbers Galashiels | theitalianjobbarber@gmail.com | 1a21e52b166e2942 | SENT |
 | Hairbysoul Galashiels | hairbysoul@gmail.com | 1a21e52b44df4b82 | SENT |
 | World Class Barbers Galashiels | worldclassbarberss@gmail.com | 1a21e52bbc089566 | SENT |
+| Eskquire Barbers | eskquirebarbers@gmail.com | 1a21e52620d71023 | BOUNCED — address not found |
+| Elysian Salon Denny | elysian.salon.denny@gmail.com | 1a21e6ebf4388b1c | SENT |
+| MOCS Alloa | mocsalloa@gmail.com | 1a21e6ed21963228 | SENT |
+| Jenna Young Hair Alloa | jennachristinaa@gmail.com | 1a21e6ed90c381aa | SENT |
+| Luxe Lounge Alloa | luxelounge121@gmail.com | 1a21e6edf13d166a | SENT |
+| Marky's Barbers Grangemouth | markysbarbers@gmail.com | 1a21e6ee54b55127 | SENT |
+| Nosh Cafe Bo'ness | noshboness13@gmail.com | 1a21e6eea4b8c4dc | SENT |
+| Sorrel's Salon Alloa | sorrelsamson@gmail.com | 1a21e6efb2a7f1a2 | SENT |
+| Blendz Barbershop Selkirk | blendz16barbershop@gmail.com | 1a21e6efff0d2943 | SENT |
+| Abbey Bridge Coffee Jedburgh | abbeybridgecoffee@gmail.com | 1a21e6f05cf27df9 | SENT |
+| Apples for Jam Melrose | afjmelrose@gmail.com | 1a21e6f090e9ca10 | SENT |
+| Tibbie's Selkirk | tibbiesinselkirk@gmail.com | 1a21e6f0fd361921 | SENT |
