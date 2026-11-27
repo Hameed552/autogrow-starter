@@ -185,3 +185,16 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Aroma Cafe Biggar | aromabiggar@gmail.com | 1a21ea848e561bbf | SENT |
 | Dynamix Salon Carluke | dynamixhairandbeauty@gmail.com | 1a21ea8500b95f28 | SENT |
 | Lilly Lu Biggar | lillylusalon@gmail.com | 1a21ea85622ecbf6 | SENT |
+| Belters Barbers Airdrie | beltersbarbers@gmail.com | 1a21ec471b9a92ce | SENT |
+| Rumours Salon Airdrie | rumourssalon19@gmail.com | 1a21ec4747c16f67 | SENT |
+| Soléa Salon Motherwell | soleasalon.scotland@gmail.com | 1a21ec47a22fd0a6 | SENT |
+| Kerry Blossom Hamilton | kerryconnollyhair@gmail.com | 1a21ec47fb0dda73 | SENT |
+| Buzz'in Barbers Rutherglen | thebuzzinbarbers@gmail.com | 1a21ec4845b7c59a | SENT |
+| Steeltown Barber EK | steeltownbarberco@gmail.com | 1a21ec4914f25c45 | SENT |
+| Fade Cut Barbers Rutherglen | fadecutbarbers229@gmail.com | 1a21ec495dbad148 | SENT |
+| Carabella Hair EK | carabellaek@gmail.com | 1a21ec49888c377f | SENT |
+| Restyled Salon EK | restyledsalon@gmail.com | 1a21ec49e0aab567 | SENT |
+| MECO's Cafe Rutherglen | mecoscafe@gmail.com | 1a21ec4a3aef0efb | SENT |
+| GABI Barber Paisley | findbarbershop@gmail.com | 1a21ec4b3bc02132 | SENT |
+| Roasters Paisley | roasterspaisley@gmail.com | 1a21ec4b6d18a128 | SENT |
+| Cara Ferguson Hair Paisley | carafergusonhair@gmail.com | 1a21ec4bc58e8872 | SENT |
