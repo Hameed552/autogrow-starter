@@ -83,3 +83,14 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Mosso Cafe Penicuik | mossocafee@gmail.com | 1a21da327808b174 | SENT |
 | The Treehouse Cafe | treehousecafe.enquiries@gmail.com | 1a21da32f75db088 | SENT |
 | Santori Vince Nails | santorivince@gmail.com | 1a21da33545af3ee | SENT |
+| The Good Beauty Club Tranent | thegoodbeautyclub@gmail.com | 1a21dbfaa4c8828f | SENT |
+| Cake Cafe North Berwick | cakecafenb@gmail.com | 1a21dbfaeb03fe27 | SENT |
+| Opal Salon Falkirk | opalsalonfalkirk@gmail.com | 1a21dbfb5a7625b3 | SENT |
+| ZaZa's Turkish Barber | zazasturkishbarber@gmail.com | 1a21dbfbbd1536eb | SENT |
+| Boss Cuts Kirkcaldy | cedenobaezc@gmail.com | 1a21dbfbeb436846 | SENT |
+| Honeybee / Luxe Lounge Alloa | honeybee.nails24@gmail.com | 1a21dbfc49b77983 | SENT |
+| The Warehouse Salon Bo'ness | thewarehouseboness@gmail.com | 1a21dbfe045d24cd | SENT |
+| V&G Beauty Bo'ness | martakonarska1989@gmail.com | 1a21dbfe6023dc31 | SENT |
+| Boss Barbers Musselburgh | bossbarbers84@gmail.com | 1a21dbfeb85de28e | SENT |
+| Power Barbershop | tyra.reekie@gmail.com | 1a21dbff1e2bc63c | SENT |
+| FI Hair Linlithgow | fihairlinlithgow@gmail.com | 1a21dc007666b5c7 | SENT |
