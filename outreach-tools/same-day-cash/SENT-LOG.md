@@ -125,3 +125,14 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Blushandbrowz | blushandbrowz10@gmail.com | 1a21e18b5256d104 | SENT |
 | Cafe Wynd Dunfermline | cafewynd@gmail.com | 1a21e18b87d8391d | SENT |
 | RagDolls / Guy & Dolls | guysandolls2022@gmail.com | 1a21e18d2bb2ece9 | SENT |
+| Sinwaxing Edinburgh | sinwaxing@gmail.com | 1a21e188943e988b | REPLIED — already has sinwaxing.co.uk (polite close sent) |
+| Buttercup Cafe Kinghorn | buttercupkinghorn@gmail.com | 1a21e3554848e408 | SENT |
+| Olive Tree Cafe Burntisland | thenewolivetreecafe@gmail.com | 1a21e355fbf5c172 | SENT |
+| Tornado Bagel Kinghorn | bagelshop.tornado@gmail.com | 1a21e3566cfc9ff7 | SENT |
+| Barley and Vine Kinghorn | barleyandvinekinghorn@gmail.com | 1a21e356f1568b9d | SENT |
+| Breakout Cafe Currie | breakout.balerno@gmail.com | 1a21e35bb915263a | SENT |
+| Loons and Legends Barber | loonsandlegends@gmail.com | 1a21e35e17f11014 | SENT |
+| Cafe Fresh Dunfermline | reekiescatering@gmail.com | 1a21e35e9259d784 | SENT |
+| Hair By Cheryl | hairbycheryl24@gmail.com | 1a21e36048b45805 | SENT |
+| Pagan Plumbers | colinpagan@gmail.com | 1a21e360c3dd1be9 | SENT |
+| KOSTA GAS Bathgate | kostagasheating@gmail.com | 1a21e3614c811ccb | SENT |
