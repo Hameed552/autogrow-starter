@@ -136,3 +136,15 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Hair By Cheryl | hairbycheryl24@gmail.com | 1a21e36048b45805 | SENT |
 | Pagan Plumbers | colinpagan@gmail.com | 1a21e360c3dd1be9 | SENT |
 | KOSTA GAS Bathgate | kostagasheating@gmail.com | 1a21e3614c811ccb | SENT |
+| Tea At Tiffany's NB | teaattiffanysnb@gmail.com | 1a21e52559141d9b | SENT |
+| Salon 36 Tranent | onlysalon36@gmail.com | 1a21e5259ce11083 | SENT |
+| New Era Beauty Port Seton | contact.newerabeauty@gmail.com | 1a21e525f9a855c6 | SENT |
+| Eskquire Barbers | eskquirebarbers@gmail.com | 1a21e52620d71023 | SENT |
+| Twenty 7 Studio Winchburgh | twenty7studioco@gmail.com | 1a21e526673c58ec | SENT |
+| Salon 10 Hair Dalgety Bay | lesleysalon10@gmail.com | 1a21e527eb9336e6 | SENT |
+| Baykutz Barbers | baykutzbarbers@gmail.com | 1a21e52853333c13 | SENT |
+| Mirror Image Inverkeithing | mibarbershop428@gmail.com | 1a21e529ba76272d | SENT |
+| Courtyard Cafe Kailzie | courtyardcafebookings@gmail.com | 1a21e529c91f9567 | SENT |
+| TIJ Barbers Galashiels | theitalianjobbarber@gmail.com | 1a21e52b166e2942 | SENT |
+| Hairbysoul Galashiels | hairbysoul@gmail.com | 1a21e52b44df4b82 | SENT |
+| World Class Barbers Galashiels | worldclassbarberss@gmail.com | 1a21e52bbc089566 | SENT |
