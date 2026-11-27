@@ -173,3 +173,15 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Tin Can Cafe Dunblane | bakeddunblane@gmail.com | 1a21e8b8d122369f | SENT |
 | Istanbul Barber Dunblane | rode85rr@gmail.com | 1a21e8b908df3928 | SENT |
 | Choices Deli Dunblane | choicesdeli@gmail.com | 1a21e8ba331857d6 | SENT |
+| Kennedy Cuts Bannockburn | kennedycuts2012@gmail.com | 1a21ea7ccc058402 | SENT |
+| Atrium Cafe Callander | atriumcallander@gmail.com | 1a21ea7d49742a67 | SENT |
+| Hair at JJs Callander | janclay52@gmail.com | 1a21ea7dd62d9f1a | SENT |
+| Ben Ledi Coffee Co | benledicoffee2@gmail.com | 1a21ea7e281507ca | SENT |
+| Man Cave Callander | mr.gj.esson@gmail.com | 1a21ea81c3aad602 | SENT |
+| Cheryl The Barber Anstruther | cherylthebarber1@gmail.com | 1a21ea824290d36a | SENT |
+| Raf's Barber Dundee | rafsbarber@gmail.com | 1a21ea82c085f86a | SENT |
+| Coco's Beauty Dundee | dawnk6416@gmail.com | 1a21ea8339d0d20f | SENT |
+| Arcadia Music Cafe Biggar | arcadiamusiccafe@gmail.com | 1a21ea8416623db2 | SENT |
+| Aroma Cafe Biggar | aromabiggar@gmail.com | 1a21ea848e561bbf | SENT |
+| Dynamix Salon Carluke | dynamixhairandbeauty@gmail.com | 1a21ea8500b95f28 | SENT |
+| Lilly Lu Biggar | lillylusalon@gmail.com | 1a21ea85622ecbf6 | SENT |
