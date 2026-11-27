@@ -1,45 +1,56 @@
-# AutoGrow Starter
+# IronSight ERP
 
-Welcome to the official starter codebase for **AutoGrow Systems**, a modern growth and automation agency.
+GCC food & FMCG operations system — lot traceability, FEFO batch costing, UAE VAT, and accounting journal export.
 
-This repository contains templates, automations, and documentation used to streamline client onboarding, build efficient business systems, and drive measurable growth through workflows, integrations, and data tracking.
+This repo is the production rebuild of IronSight (formerly Base44-hosted). Highest-impact 9.5 work shipped here:
 
----
+- **Real FG costing** — finished goods inherit FIFO/FEFO lot costs (fixes AED 0.00 unit cost bug)
+- **FEFO picking** — outbound picks blocked on shortfall; earliest expiry first
+- **Recall blast radius** — RM/FG lot → batches → customers to notify
+- **Buying plan → PO** — one-click POs for below-min materials
+- **Cost variance** — standard BOM vs actual batch unit cost
+- **Auth + TOTP MFA** — scrypt passwords, sessions, audit log (`demo@ironsight.ae` / `demo1234`)
+- **Arabic RTL** — locale toggle in Settings flips the app shell
+- **UAE VAT invoices** — 5% split, TRN, emirate
+- **Accounting CSV export** — Xero / QBO / Zoho-mapped journals (live OAuth sync next)
+- **Trust / status / SLA** — residency selector, public status page, honest scope
 
-## 🚀 What This Includes
+## Stack
 
-- 🔁 **Workflow Automation Scripts**  
-  Automate repetitive tasks, notifications, and process triggers
+- Next.js 16 (App Router) + TypeScript + Tailwind 4
+- Prisma 6 + SQLite (local) — swap `DATABASE_URL` to Postgres for deploy
+- zod, date-fns, lucide-react
 
-- 🧩 **Integration Templates**  
-  Plug-and-play modules for CRM, email, calendar, and forms
+## Quick start
 
-- 📊 **KPI Tracking & Dashboard Setup**  
-  Blueprint for setting up analytics and growth KPIs
-
-- 📂 **Client Onboarding Package**  
-  Editable documents, intake forms, and service setup checklists
-
-- 📧 **Cold Email & Outreach Tools**  
-  Scripts and templates to launch high-converting outbound campaigns
-
----
-
-## 🛠 Getting Started
-
-1. **Clone this repo**:
-   ```bash
-   git clone https://github.com/Hameed552/autogrow-starter.git
-
+```bash
 npm install
-# or
-pip install -r requirements.txt
+npm run db:reset
+npm run test:costing
+npm run dev
+```
 
-autogrow-starter/
-├── /client-onboarding/
-├── /automation-scripts/
-├── /integration-templates/
-├── /outreach-tools/
-├── /kpi-dashboard/
-├── /config/
-└── README.md
+Open [http://localhost:3000](http://localhost:3000) — demo workspace **Gulf Fresh Foods LLC**.
+
+## Demo
+
+Seed creates `demo@ironsight.ae` as workspace owner (no auth gate in this build; add NextAuth/Clerk before production).
+
+## Base44 migration
+
+If you have Builder access, export the live app or set:
+
+```
+BASE44_API_TOKEN=
+BASE44_APP_ID=6aefb83a9b0705a5cbe7b99a
+```
+
+Then we can map entities onto this schema.
+
+## Scripts
+
+| Script | Purpose |
+|--------|---------|
+| `npm run db:reset` | Recreate SQLite + seed |
+| `npm run test:costing` | Assert unit cost > 0 |
+| `npm run build` | Production build |

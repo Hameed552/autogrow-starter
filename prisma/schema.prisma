@@ -1,0 +1,322 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Workspace {
+  id           String   @id @default(cuid())
+  name         String
+  industry     String
+  currency     String   @default("AED")
+  timezone     String   @default("Asia/Dubai")
+  address      String?
+  phone        String?
+  trn          String?
+  emirate      String?  @default("Dubai")
+  locale       String   @default("en")
+  /// UAE | Bahrain | KSA | GCC-shared | EU
+  dataResidency String  @default("UAE")
+  slaTier      String   @default("Plant") // Pilot | Plant | Group
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  users              User[]
+  materials          RawMaterial[]
+  products           FinishedProduct[]
+  suppliers          Supplier[]
+  customers          Customer[]
+  bomPresets         BomPreset[]
+  inventoryLots      InventoryLot[]
+  productionBatches  ProductionBatch[]
+  purchaseOrders     PurchaseOrder[]
+  salesOrders        SalesOrder[]
+  invoices           Invoice[]
+  expenses           Expense[]
+  recalls            Recall[]
+  pickOrders         PickOrder[]
+  auditLogs          AuditLog[]
+}
+
+model User {
+  id           String   @id @default(cuid())
+  workspaceId  String
+  email        String   @unique
+  name         String
+  role         String   @default("owner")
+  passwordHash String?
+  mfaEnabled   Boolean  @default(false)
+  mfaSecret    String?
+  mfaVerifiedAt DateTime?
+  createdAt    DateTime @default(now())
+  workspace    Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+}
+
+model Supplier {
+  id          String   @id @default(cuid())
+  workspaceId String
+  name        String
+  trn         String?
+  email       String?
+  phone       String?
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  materials   RawMaterial[]
+  purchaseOrders PurchaseOrder[]
+}
+
+model Customer {
+  id          String   @id @default(cuid())
+  workspaceId String
+  name        String
+  trn         String?
+  emirate     String?  @default("Dubai")
+  email       String?
+  phone       String?
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  salesOrders SalesOrder[]
+  invoices    Invoice[]
+}
+
+model RawMaterial {
+  id            String   @id @default(cuid())
+  workspaceId   String
+  name          String
+  sku           String?
+  category      String?
+  unit          String
+  unitCostAed   Float
+  minLevel      Float    @default(0)
+  location      String?
+  supplierId    String?
+  allergenTags  String?  // comma-separated
+  workspace     Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  supplier      Supplier? @relation(fields: [supplierId], references: [id])
+  lots          InventoryLot[]
+  bomLines      BomLine[]
+}
+
+model FinishedProduct {
+  id          String   @id @default(cuid())
+  workspaceId String
+  name        String
+  sku         String?
+  unit        String   @default("pcs")
+  sellPriceAed Float
+  shelfLifeDays Int?
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  presets     BomPreset[]
+  lots        InventoryLot[]
+  batches     ProductionBatch[]
+}
+
+model BomPreset {
+  id          String   @id @default(cuid())
+  workspaceId String
+  name        String
+  productId   String
+  outputQty   Float
+  estHours    Float    @default(1)
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  product     FinishedProduct @relation(fields: [productId], references: [id], onDelete: Cascade)
+  lines       BomLine[]
+  batches     ProductionBatch[]
+}
+
+model BomLine {
+  id          String @id @default(cuid())
+  presetId    String
+  materialId  String
+  quantity    Float
+  preset      BomPreset @relation(fields: [presetId], references: [id], onDelete: Cascade)
+  material    RawMaterial @relation(fields: [materialId], references: [id])
+}
+
+model InventoryLot {
+  id            String   @id @default(cuid())
+  workspaceId   String
+  lotNumber     String
+  itemType      String   // raw_material | finished_product
+  materialId    String?
+  productId     String?
+  supplierLot   String?
+  qtyInitial    Float
+  qtyRemaining  Float
+  unitCostAed   Float
+  receivedAt    DateTime
+  expiresAt     DateTime?
+  location      String?
+  qcStatus      String   @default("Passed")
+  status        String   @default("Active")
+  workspace     Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  material      RawMaterial? @relation(fields: [materialId], references: [id])
+  product       FinishedProduct? @relation(fields: [productId], references: [id])
+  consumptions  LotConsumption[]
+  deliveries    LotDelivery[]
+
+  @@unique([workspaceId, lotNumber])
+}
+
+model ProductionBatch {
+  id          String   @id @default(cuid())
+  workspaceId String
+  batchNumber String
+  productId   String
+  presetId    String?
+  plannedQty  Float
+  actualQty   Float?
+  status      String   @default("planned") // planned | in_progress | completed
+  startedAt   DateTime?
+  completedAt DateTime?
+  unitCostAed Float    @default(0)
+  outputLotId String?
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  product     FinishedProduct @relation(fields: [productId], references: [id])
+  preset      BomPreset? @relation(fields: [presetId], references: [id])
+  consumptions LotConsumption[]
+
+  @@unique([workspaceId, batchNumber])
+}
+
+model LotConsumption {
+  id        String @id @default(cuid())
+  batchId   String
+  lotId     String
+  qtyUsed   Float
+  batch     ProductionBatch @relation(fields: [batchId], references: [id], onDelete: Cascade)
+  lot       InventoryLot @relation(fields: [lotId], references: [id])
+}
+
+model PurchaseOrder {
+  id          String   @id @default(cuid())
+  workspaceId String
+  number      String
+  supplierId  String
+  status      String   @default("open")
+  orderedAt   DateTime @default(now())
+  subtotalAed Float
+  vatAed      Float
+  source      String   @default("manual") // manual | buying_plan
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  supplier    Supplier @relation(fields: [supplierId], references: [id])
+  lines       PurchaseOrderLine[]
+
+  @@unique([workspaceId, number])
+}
+
+model PurchaseOrderLine {
+  id         String @id @default(cuid())
+  orderId    String
+  materialId String
+  qty        Float
+  unitCostAed Float
+  order      PurchaseOrder @relation(fields: [orderId], references: [id], onDelete: Cascade)
+}
+
+model SalesOrder {
+  id          String   @id @default(cuid())
+  workspaceId String
+  number      String
+  customerId  String
+  status      String   @default("open")
+  orderedAt   DateTime @default(now())
+  subtotalAed Float
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  customer    Customer @relation(fields: [customerId], references: [id])
+
+  @@unique([workspaceId, number])
+}
+
+model Invoice {
+  id          String   @id @default(cuid())
+  workspaceId String
+  number      String
+  customerId  String
+  status      String   @default("draft") // draft | sent | partial | paid | overdue
+  issuedAt    DateTime
+  dueAt       DateTime?
+  subtotalAed Float
+  vatAed      Float
+  totalAed    Float
+  emirate     String   @default("Dubai")
+  paidAed     Float    @default(0)
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  customer    Customer @relation(fields: [customerId], references: [id])
+  deliveries  LotDelivery[]
+
+  @@unique([workspaceId, number])
+}
+
+model LotDelivery {
+  id         String @id @default(cuid())
+  lotId      String
+  invoiceId  String?
+  customerName String
+  qty        Float
+  deliveredAt DateTime
+  lot        InventoryLot @relation(fields: [lotId], references: [id], onDelete: Cascade)
+  invoice    Invoice? @relation(fields: [invoiceId], references: [id])
+}
+
+model Expense {
+  id          String   @id @default(cuid())
+  workspaceId String
+  category    String
+  description String
+  amountAed   Float
+  vatAed      Float    @default(0)
+  recurring   Boolean  @default(false)
+  spentAt     DateTime
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+}
+
+model Recall {
+  id          String   @id @default(cuid())
+  workspaceId String
+  lotId       String
+  reason      String
+  status      String   @default("open") // open | contained | closed
+  customerCount Int    @default(0)
+  qtyAtRisk   Float    @default(0)
+  blastJson   String?  // serialized blast report
+  createdAt   DateTime @default(now())
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+}
+
+model PickOrder {
+  id          String   @id @default(cuid())
+  workspaceId String
+  number      String
+  salesOrderId String?
+  status      String   @default("open") // open | picking | fulfilled | blocked
+  createdAt   DateTime @default(now())
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  lines       PickLine[]
+
+  @@unique([workspaceId, number])
+}
+
+model PickLine {
+  id          String  @id @default(cuid())
+  pickOrderId String
+  productId   String
+  qtyRequired Float
+  qtyPicked   Float   @default(0)
+  lotId       String? // FEFO-assigned lot
+  blockedReason String?
+  pickOrder   PickOrder @relation(fields: [pickOrderId], references: [id], onDelete: Cascade)
+}
+
+model AuditLog {
+  id          String   @id @default(cuid())
+  workspaceId String
+  actorEmail  String?
+  action      String
+  entityType  String
+  entityId    String?
+  detail      String?
+  createdAt   DateTime @default(now())
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+}
