@@ -160,3 +160,16 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Abbey Bridge Coffee Jedburgh | abbeybridgecoffee@gmail.com | 1a21e6f05cf27df9 | SENT |
 | Apples for Jam Melrose | afjmelrose@gmail.com | 1a21e6f090e9ca10 | SENT |
 | Tibbie's Selkirk | tibbiesinselkirk@gmail.com | 1a21e6f0fd361921 | SENT |
+| Dec the Barber Perth | decthebarber1996@gmail.com | 1a21e8b2c8dde0d1 | SENT |
+| International Cafe Perth | internationalcafeperth@gmail.com | 1a21e8b31ee9be46 | SENT |
+| Artisan Perth | artisan.perth@gmail.com | 1a21e8b36a4d925d | SENT |
+| Belles Barbers Bonnybridge | bellesbarbers1@gmail.com | 1a21e8b3c3618b67 | SENT |
+| Hidden Gem Salon Bonnybridge | thehiddengemsalon@gmail.com | 1a21e8b42c1164ba | SENT |
+| Absolute Beauty Polmont | gillianclark35@gmail.com | 1a21e8b53b9c7bdc | SENT |
+| Paula at Belle's | hairbypaularennie@gmail.com | 1a21e8b5a3898e06 | SENT |
+| Neroli Beauty Dunblane | nerolibeautysalon00@gmail.com | 1a21e8b79009608d | SENT |
+| LJWilson Barber Crieff | l.j.wilsonbarberco@gmail.com | 1a21e8b7eadee79a | SENT |
+| Beech Tree Cafe Dunblane | thebeechtreecafe@gmail.com | 1a21e8b84371d1b2 | SENT |
+| Tin Can Cafe Dunblane | bakeddunblane@gmail.com | 1a21e8b8d122369f | SENT |
+| Istanbul Barber Dunblane | rode85rr@gmail.com | 1a21e8b908df3928 | SENT |
+| Choices Deli Dunblane | choicesdeli@gmail.com | 1a21e8ba331857d6 | SENT |
