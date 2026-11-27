@@ -198,3 +198,17 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | GABI Barber Paisley | findbarbershop@gmail.com | 1a21ec4b3bc02132 | SENT |
 | Roasters Paisley | roasterspaisley@gmail.com | 1a21ec4b6d18a128 | SENT |
 | Cara Ferguson Hair Paisley | carafergusonhair@gmail.com | 1a21ec4bc58e8872 | SENT |
+| Eclipse Hair Port Glasgow | eclipsehairdesign2020@gmail.com | 1a21ee0af8685651 | SENT |
+| Salon Ivy Port Glasgow | salon.ivy68@gmail.com | 1a21ee0b36cc37f1 | SENT |
+| Barber & Groom Gourock | barberandgroom@gmail.com | 1a21ee0b89de8ead | SENT |
+| BRBR Greenock | brbrkev@gmail.com | 1a21ee0bc2b8fbce | SENT |
+| Bishopbriggs Barber Shop | bishopbriggsbarbershop04@gmail.com | 1a21ee0c09a997e1 | SENT |
+| Fresh Fade Bearsden | freshfadescot@gmail.com | 1a21ee0d0435d64f | SENT |
+| Sportsman's Barber Clydebank | sportsmanbarbershop621@gmail.com | 1a21ee0d5c3d1328 | SENT |
+| Barber at the Cross Bearsden | zoefburns79@gmail.com | 1a21ee0da04bbf49 | SENT |
+| Barber Barber Clydebank | srwaagha2001@gmail.com | 1a21ee0df2f112f6 | SENT |
+| Bankie Beauty Clydebank | bankiebeauty@gmail.com | 1a21ee0e0087463a | SENT |
+| Marti Howard Barbering | martihoward16@gmail.com | 1a21ee0f44d07064 | SENT |
+| The Lookout Troon | thelookouttroon@gmail.com | 1a21ee0f82de977e | SENT |
+| Kaz Barber Kilmarnock | kazbarberki@gmail.com | 1a21ee0ff5eb2d70 | SENT |
+| Unique Cuts Ayr | unique.cuts.140@gmail.com | 1a21ee1038c783a4 | SENT |
