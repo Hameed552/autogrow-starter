@@ -1,13 +1,18 @@
 import { PrismaClient } from "@prisma/client";
 import { computeBatchCost } from "../src/lib/costing";
 import { calcVat } from "../src/lib/vat";
+import { hashPassword } from "../src/lib/password";
 
 const prisma = new PrismaClient();
 
 async function main() {
+  await prisma.pickLine.deleteMany();
+  await prisma.pickOrder.deleteMany();
+  await prisma.purchaseOrderLine.deleteMany();
   await prisma.lotDelivery.deleteMany();
   await prisma.lotConsumption.deleteMany();
   await prisma.recall.deleteMany();
+  await prisma.auditLog.deleteMany();
   await prisma.invoice.deleteMany();
   await prisma.salesOrder.deleteMany();
   await prisma.purchaseOrder.deleteMany();
@@ -34,11 +39,14 @@ async function main() {
       trn: "100312345600003",
       emirate: "Dubai",
       locale: "en",
+      dataResidency: "UAE",
+      slaTier: "Plant",
       users: {
         create: {
           email: "demo@ironsight.ae",
           name: "Sara Al Maktoum",
           role: "owner",
+          passwordHash: hashPassword("demo1234"),
         },
       },
     },
@@ -72,7 +80,7 @@ async function main() {
       category: "Dry Goods",
       unit: "kg",
       unitCostAed: 3.2,
-      minLevel: 100,
+      minLevel: 800,
       location: "Dry Store A",
       supplierId: supplier.id,
       allergenTags: "gluten,wheat",

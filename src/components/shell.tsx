@@ -1,44 +1,46 @@
 import { cn } from "@/lib/utils";
+import { prisma } from "@/lib/db";
+import { NAV_KEYS, dir, t, type Locale } from "@/lib/i18n";
 import type { ReactNode } from "react";
 
-const NAV = [
-  { href: "/app", label: "Dashboard" },
-  { href: "/app/inventory", label: "Inventory" },
-  { href: "/app/production", label: "Production" },
-  { href: "/app/sales", label: "Sales & VAT" },
-  { href: "/app/traceability", label: "Traceability" },
-  { href: "/app/accounting", label: "Accounting export" },
-  { href: "/app/security", label: "Security" },
-];
-
 const TRUST = [
-  { href: "/trust", label: "Trust center" },
-  { href: "/security", label: "Security" },
-  { href: "/references", label: "References" },
-  { href: "/pricing", label: "Pricing" },
+  { href: "/trust", en: "Trust center", ar: "مركز الثقة" },
+  { href: "/status", en: "Status", ar: "الحالة" },
+  { href: "/references", en: "References", ar: "المراجع" },
+  { href: "/pricing", en: "Pricing", ar: "الأسعار" },
 ];
 
-export function AppShell({
+async function resolveLocale(locale?: Locale): Promise<Locale> {
+  if (locale) return locale;
+  const ws = await prisma.workspace.findFirst({ select: { locale: true } });
+  return ws?.locale === "ar" ? "ar" : "en";
+}
+
+export async function AppShell({
   children,
   active,
+  locale: localeProp,
 }: {
   children: ReactNode;
   active?: string;
+  locale?: Locale;
 }) {
+  const locale = await resolveLocale(localeProp);
+  const d = dir(locale);
   return (
-    <div className="min-h-screen bg-[var(--bg)]">
+    <div className="min-h-screen bg-[var(--bg)]" dir={d} lang={locale}>
       <div className="mx-auto flex min-h-screen max-w-[1400px]">
-        <aside className="hidden w-60 shrink-0 border-r border-[var(--border)] bg-[var(--surface)] px-4 py-6 md:block">
-          <a href="/" className="mb-8 block px-2">
-            <span className="font-[family-name:var(--font-display)] text-xl font-bold tracking-tight text-[var(--ink)]">
-              IronSight
+        <aside className="hidden w-60 shrink-0 border-[var(--border)] bg-[var(--surface)] px-4 py-6 md:block md:border-e">
+          <a href="/app" className="mb-8 block px-2">
+            <span className="font-display text-xl font-bold tracking-tight text-[var(--ink)]">
+              {t(locale, "appName")}
             </span>
             <span className="mt-0.5 block text-xs text-[var(--muted)]">
-              GCC food & FMCG ERP
+              {t(locale, "tagline")}
             </span>
           </a>
-          <nav className="space-y-1">
-            {NAV.map((item) => (
+          <nav className="space-y-0.5">
+            {NAV_KEYS.map((item) => (
               <a
                 key={item.href}
                 href={item.href}
@@ -49,7 +51,7 @@ export function AppShell({
                     : "text-slate-600 hover:bg-slate-50 hover:text-[var(--ink)]",
                 )}
               >
-                {item.label}
+                {t(locale, item.key)}
               </a>
             ))}
           </nav>
@@ -64,13 +66,35 @@ export function AppShell({
                   href={item.href}
                   className="block rounded-lg px-3 py-1.5 text-sm text-slate-500 hover:text-[var(--ink)]"
                 >
-                  {item.label}
+                  {locale === "ar" ? item.ar : item.en}
                 </a>
               ))}
             </nav>
           </div>
         </aside>
-        <main className="flex-1 px-4 py-6 sm:px-8">{children}</main>
+
+        <div className="flex min-w-0 flex-1 flex-col">
+          <div className="flex items-center gap-2 overflow-x-auto border-b border-[var(--border)] bg-[var(--surface)] px-3 py-2 md:hidden">
+            <a href="/app" className="shrink-0 font-display text-sm font-bold">
+              {t(locale, "appName")}
+            </a>
+            {NAV_KEYS.slice(0, 6).map((item) => (
+              <a
+                key={item.href}
+                href={item.href}
+                className={cn(
+                  "shrink-0 rounded-md px-2 py-1 text-xs",
+                  active === item.href
+                    ? "bg-[var(--accent-soft)] text-[var(--accent)]"
+                    : "text-slate-600",
+                )}
+              >
+                {t(locale, item.key)}
+              </a>
+            ))}
+          </div>
+          <main className="flex-1 px-4 py-6 sm:px-8">{children}</main>
+        </div>
       </div>
     </div>
   );
@@ -80,28 +104,28 @@ export function MarketingShell({ children }: { children: ReactNode }) {
   return (
     <div className="min-h-screen bg-[var(--bg)]">
       <header className="border-b border-[var(--border)] bg-[var(--surface)]/80 backdrop-blur">
-        <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4 sm:px-6">
+        <div className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-4 sm:px-6">
           <a
             href="/"
-            className="font-[family-name:var(--font-display)] text-xl font-bold tracking-tight text-[var(--ink)]"
+            className="font-display text-xl font-bold tracking-tight text-[var(--ink)]"
           >
             IronSight
           </a>
-          <nav className="flex items-center gap-4 text-sm">
+          <nav className="flex flex-wrap items-center justify-end gap-3 text-sm">
             <a href="/trust" className="text-slate-600 hover:text-[var(--ink)]">
               Trust
             </a>
+            <a href="/status" className="text-slate-600 hover:text-[var(--ink)]">
+              Status
+            </a>
             <a
               href="/references"
-              className="text-slate-600 hover:text-[var(--ink)]"
+              className="hidden text-slate-600 hover:text-[var(--ink)] sm:inline"
             >
               References
             </a>
-            <a
-              href="/pricing"
-              className="text-slate-600 hover:text-[var(--ink)]"
-            >
-              Pricing
+            <a href="/login" className="text-slate-600 hover:text-[var(--ink)]">
+              Sign in
             </a>
             <a
               href="/app"

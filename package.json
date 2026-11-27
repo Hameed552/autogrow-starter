@@ -12,6 +12,8 @@
     "db:seed": "tsx prisma/seed.ts",
     "db:reset": "prisma db push --force-reset && tsx prisma/seed.ts",
     "test:costing": "tsx src/lib/costing.test.ts",
+    "test:ops": "tsx src/lib/fefo.test.ts",
+    "test": "npm run test:costing && npm run test:ops",
     "postinstall": "prisma generate"
   },
   "prisma": {

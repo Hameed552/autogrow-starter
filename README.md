@@ -5,10 +5,15 @@ GCC food & FMCG operations system — lot traceability, FEFO batch costing, UAE 
 This repo is the production rebuild of IronSight (formerly Base44-hosted). Highest-impact 9.5 work shipped here:
 
 - **Real FG costing** — finished goods inherit FIFO/FEFO lot costs (fixes AED 0.00 unit cost bug)
+- **FEFO picking** — outbound picks blocked on shortfall; earliest expiry first
+- **Recall blast radius** — RM/FG lot → batches → customers to notify
+- **Buying plan → PO** — one-click POs for below-min materials
+- **Cost variance** — standard BOM vs actual batch unit cost
+- **Auth + TOTP MFA** — scrypt passwords, sessions, audit log (`demo@ironsight.ae` / `demo1234`)
+- **Arabic RTL** — locale toggle in Settings flips the app shell
 - **UAE VAT invoices** — 5% split, TRN, emirate
 - **Accounting CSV export** — Xero / QBO / Zoho-mapped journals (live OAuth sync next)
-- **Trust center** — residency, security roadmap, honest scope (no fake pharma claims)
-- **Arabic i18n foundation** — `src/lib/i18n.ts`
+- **Trust / status / SLA** — residency selector, public status page, honest scope
 
 ## Stack
 

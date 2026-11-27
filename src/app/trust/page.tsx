@@ -1,5 +1,5 @@
 import { MarketingShell } from "@/components/shell";
-import { Card } from "@/components/ui";
+import { ButtonLink, Card } from "@/components/ui";
 
 export const metadata = { title: "Trust center" };
 
@@ -11,45 +11,56 @@ export default function TrustPage() {
           Trust center
         </h1>
         <p className="mt-3 text-[var(--muted)]">
-          Vendor trust is a 9.5 lever. Here is what IronSight will stand behind —
+          Vendor trust is a 9.5 lever. Here is what IronSight stands behind —
           and what we will not overclaim.
         </p>
+        <div className="mt-4">
+          <ButtonLink href="/status" variant="secondary">
+            Live status & SLA
+          </ButtonLink>
+        </div>
 
         <div className="mt-10 space-y-6">
           <Card>
             <h2 className="text-lg font-semibold">Data residency</h2>
             <p className="mt-2 text-sm leading-relaxed text-[var(--muted)]">
-              Customer production data can be hosted in UAE / GCC-region
-              infrastructure on request. Demo environments may run elsewhere;
-              contracts specify the region for paid workspaces.
+              Workspaces select UAE, Bahrain, KSA, GCC-shared, or EU residency
+              in Settings. Paid contracts pin the region; demo may share infra
+              until Group deploy.
             </p>
           </Card>
           <Card>
-            <h2 className="text-lg font-semibold">Security roadmap</h2>
+            <h2 className="text-lg font-semibold">Security</h2>
             <p className="mt-2 text-sm leading-relaxed text-[var(--muted)]">
-              TLS in transit is standard. MFA, SSO, and immutable audit logs are
-              required before we market IronSight for regulated multi-site
-              deployments. Status is tracked on the in-app Security page.
+              TLS in transit, scrypt password hashing, httpOnly sessions, TOTP
+              MFA enrollment, and append-only audit logs ship in-product now.
+              SSO remains Group-tier roadmap. See{" "}
+              <a href="/app/security" className="text-[var(--accent)] underline">
+                Security & MFA
+              </a>
+              .
+            </p>
+          </Card>
+          <Card>
+            <h2 className="text-lg font-semibold">Company & support</h2>
+            <p className="mt-2 text-sm leading-relaxed text-[var(--muted)]">
+              Support hours: Sun–Thu 09:00–18:00 Asia/Dubai. Critical response
+              target 4 business hours on Group. Contact{" "}
+              <a
+                className="text-[var(--accent)] underline"
+                href="mailto:hello@ironsight.ae"
+              >
+                hello@ironsight.ae
+              </a>{" "}
+              — domain email, not a personal Gmail.
             </p>
           </Card>
           <Card>
             <h2 className="text-lg font-semibold">Honest product scope</h2>
             <p className="mt-2 text-sm leading-relaxed text-[var(--muted)]">
-              IronSight is built for food, beverage, and FMCG manufacturers in
-              the Gulf. We do not claim pharma GxP, hospital EMR, or full
-              enterprise financial consolidation. Accounting export is
-              available; live Xero/QBO sync ships when partner apps are live.
-            </p>
-          </Card>
-          <Card>
-            <h2 className="text-lg font-semibold">Subprocessors</h2>
-            <p className="mt-2 text-sm leading-relaxed text-[var(--muted)]">
-              Hosting, email, and error monitoring subprocessors will be listed
-              here before GA. Contact{" "}
-              <a className="text-[var(--accent)] underline" href="mailto:security@ironsight.ae">
-                security@ironsight.ae
-              </a>{" "}
-              for the current list.
+              Food, beverage, and FMCG manufacturers in the Gulf. No pharma GxP
+              claims. Accounting journal CSV is live; two-way Xero/QBO sync is
+              marked planned until partner apps are connected.
             </p>
           </Card>
         </div>

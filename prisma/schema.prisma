@@ -18,6 +18,9 @@ model Workspace {
   trn          String?
   emirate      String?  @default("Dubai")
   locale       String   @default("en")
+  /// UAE | Bahrain | KSA | GCC-shared | EU
+  dataResidency String  @default("UAE")
+  slaTier      String   @default("Plant") // Pilot | Plant | Group
   createdAt    DateTime @default(now())
   updatedAt    DateTime @updatedAt
 
@@ -34,6 +37,8 @@ model Workspace {
   invoices           Invoice[]
   expenses           Expense[]
   recalls            Recall[]
+  pickOrders         PickOrder[]
+  auditLogs          AuditLog[]
 }
 
 model User {
@@ -43,6 +48,9 @@ model User {
   name         String
   role         String   @default("owner")
   passwordHash String?
+  mfaEnabled   Boolean  @default(false)
+  mfaSecret    String?
+  mfaVerifiedAt DateTime?
   createdAt    DateTime @default(now())
   workspace    Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
 }
@@ -190,10 +198,21 @@ model PurchaseOrder {
   orderedAt   DateTime @default(now())
   subtotalAed Float
   vatAed      Float
+  source      String   @default("manual") // manual | buying_plan
   workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
   supplier    Supplier @relation(fields: [supplierId], references: [id])
+  lines       PurchaseOrderLine[]
 
   @@unique([workspaceId, number])
+}
+
+model PurchaseOrderLine {
+  id         String @id @default(cuid())
+  orderId    String
+  materialId String
+  qty        Float
+  unitCostAed Float
+  order      PurchaseOrder @relation(fields: [orderId], references: [id], onDelete: Cascade)
 }
 
 model SalesOrder {
@@ -258,7 +277,46 @@ model Recall {
   workspaceId String
   lotId       String
   reason      String
-  status      String   @default("open")
+  status      String   @default("open") // open | contained | closed
+  customerCount Int    @default(0)
+  qtyAtRisk   Float    @default(0)
+  blastJson   String?  // serialized blast report
+  createdAt   DateTime @default(now())
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+}
+
+model PickOrder {
+  id          String   @id @default(cuid())
+  workspaceId String
+  number      String
+  salesOrderId String?
+  status      String   @default("open") // open | picking | fulfilled | blocked
+  createdAt   DateTime @default(now())
+  workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
+  lines       PickLine[]
+
+  @@unique([workspaceId, number])
+}
+
+model PickLine {
+  id          String  @id @default(cuid())
+  pickOrderId String
+  productId   String
+  qtyRequired Float
+  qtyPicked   Float   @default(0)
+  lotId       String? // FEFO-assigned lot
+  blockedReason String?
+  pickOrder   PickOrder @relation(fields: [pickOrderId], references: [id], onDelete: Cascade)
+}
+
+model AuditLog {
+  id          String   @id @default(cuid())
+  workspaceId String
+  actorEmail  String?
+  action      String
+  entityType  String
+  entityId    String?
+  detail      String?
   createdAt   DateTime @default(now())
   workspace   Workspace @relation(fields: [workspaceId], references: [id], onDelete: Cascade)
 }
