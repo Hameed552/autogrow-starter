@@ -355,3 +355,11 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Haus of Skill Kilmarnock | angelaskilling@gmail.com | 1a22079eb6f44ae8 | SENT |
 | Barber Road Edinburgh | barberroadmanagement@gmail.com | 1a22079ee5e3987e | SENT |
 | Mass Barber Ferry Road | massbarbersedin@gmail.com | 1a22079f25a051c0 | SENT |
+| Callander Nail Spa | callandernailspa@gmail.com | 1a220965a9d8a308 | SENT |
+| Katie Nails Stirling | katienails.stirling@gmail.com | 1a2209660fd0b7ae | SENT |
+| Stirling Nail Art | stirlingnailart@gmail.com | 1a2209665f997994 | SENT |
+| Ali Barber Stirling | barberali911@gmail.com | 1a220966b6f1d06a | SENT |
+| Websters Bakery Fraserburgh | webstersbakery@gmail.com | 1a220966eb719d96 | SENT |
+| Nails by J Elgin | nailsbyjessieann@gmail.com | 1a22096753e98258 | SENT |
+| Peterhead Nails Spa | peterheadnailspa@gmail.com | 1a220967bb8ef1e4 | SENT |
+| Barber Ozzy Banff | barberozzybanff@gmail.com | 1a2209681c21a9b2 | SENT |
