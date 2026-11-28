@@ -315,3 +315,11 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | The Birch Dumbarton | thebirchdumbarton@gmail.com | 1a220045944b472e | SENT |
 | Oh Crumbs Bakeaway FW | ohcrumbsbakeaway@gmail.com | 1a220045e3901291 | SENT |
 | Cruive Cafe Bar Dunoon | cruivedunoon@gmail.com | 1a22004668b714d5 | SENT |
+| Neat Barbershop Kirkintilloch | neatglasgowbarber@gmail.com | 1a220219b3a4c6c0 | SENT |
+| Casa Salon Academy Wishaw | Casasalonacademy@gmail.com | 1a22021a0e19a82a | SENT |
+| Homegrown Barber Glenboig | rishsepi@gmail.com | 1a22021aad26ff81 | SENT |
+| Samurai Barber Dunfermline | samuelgarciarivero91@gmail.com | 1a22021afbba7e95 | SENT |
+| Vera Artisan Bakery Stirling | veraartisanbakery@gmail.com | 1a22021b7afacbb6 | SENT |
+| Fire & Rye Bakery Stirling | Fireandrye.Bakery@gmail.com | 1a22021bcaa45d73 | SENT |
+| Heaven Nails Musselburgh | heavennailsmusselburgh@gmail.com | 1a22021c42cdd7d0 | SENT |
+| Musselburgh Nails Spa | kyduyen07122018@gmail.com | 1a22021ca36047c7 | SENT |
