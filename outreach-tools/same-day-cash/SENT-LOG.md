@@ -426,3 +426,11 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | JXT Studio Muirhead | jentagx@gmail.com | 1a221839988074d7 | SENT |
 | Braids by Cathy Livingston | riria562002@gmail.com | 1a22183a0cb76578 | SENT |
 | Side-shed Barbers | sideshedbarbers@gmail.com | 1a22183a54423ecc | SENT |
+| Harbour Nails Oban | harbournailspa@gmail.com | 1a2218468e226147 | SENT |
+| Embellish Nails Inverness | embellishnailsandbeautyy@gmail.com | 1a221846c5450119 | SENT |
+| Home Baking St Andrews | margrace2716@gmail.com | 1a221847378db960 | SENT |
+| Hollywood Nails Whitburn | whitburnails@gmail.com | 1a22184ab2c88da1 | SENT |
+| Master Fade Barbers Irvine | masterfadebarbers22@gmail.com | 1a22184ac6502dce | SENT |
+| Nail Factory Dingwall | nailfactory.highland@gmail.com | 1a22184b1e99d261 | SENT |
+| Apples for Jam Melrose | applesforjam14@gmail.com | 1a22184d9412eb69 | SENT |
+| Hair & Nails Laura Campbell Dumbarton | hairbylaurcampbell@gmail.com | 1a22184f95848ea3 | SENT |
