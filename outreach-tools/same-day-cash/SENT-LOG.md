@@ -396,3 +396,10 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Glamour Grace Hamilton | sleepingunderthestars88@gmail.com | 1a2212845009a91c | SENT |
 | Haddington Nails Spa | nailsspahaddington@gmail.com | 1a221287b901d083 | SENT |
 | Crown Nails Musselburgh | william21520@gmail.com | 1a22128828688c5f | SENT |
+| Hollywood Nails Shawlands | hollywoodnailsshawland@gmail.com | 1a2214691d9ea4aa | SENT |
+| Glasgow Grooming Company | glasgowgrooming@gmail.com | 1a2214696c8abe57 | SENT |
+| Green Bite Cafe Edinburgh | greenbitecafe@gmail.com | 1a22146a3a32b71a | SENT |
+| SixNine Nails Glasgow | sixninenails@gmail.com | 1a22146a5f97fba0 | SENT |
+| Kilmarnock Nails Spa | kilmarnocknailsspa@gmail.com | 1a22146ad194c8ba | SENT |
+| Hollywood Nails Hamilton | khanhlinh2013linh@gmail.com | 1a22146b5e9937ab | SENT |
+| Forest Kitchen Grantown | forestkitchenandcafe@gmail.com | 1a22146bd99fc712 | SENT |
