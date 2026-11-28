@@ -382,3 +382,10 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Tickled Trout Cafe Perth | tickledtroutcafe@gmail.com | 1a220edbb4bdcaf8 | SENT |
 | K1 Barbershop Clydebank | k1barbershop26@gmail.com | 1a220edc375113d6 | SENT |
 | Visualize Male Salon Dunfermline | kevingibb2468@gmail.com | 1a220ee08abe2858 | SENT |
+| Floral Nails Morningside | thefloralnails229@gmail.com | 1a2210af419d9842 | SENT |
+| Ruby Nail Bar Morningside | rubynailmorningside@gmail.com | 1a2210afa3e85324 | SENT |
+| Royal Nails Troon | manhhung02all@gmail.com | 1a2210b01a976a4c | SENT |
+| Sky Nails Elgin | skynailsandspa10@gmail.com | 1a2210b083fdd685 | SENT |
+| AB Nails Aberdeen | felixdinh58@gmail.com | 1a2210b0e30ccd25 | SENT |
+| Ellie Jones Beauty Aberdeen | info.nbel@gmail.com | 1a2210b16b172357 | SENT |
+| Sky Nails Livingston | vvl01021999@gmail.com | 1a2210b1cb635b23 | SENT |
