@@ -363,3 +363,9 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Nails by J Elgin | nailsbyjessieann@gmail.com | 1a22096753e98258 | SENT |
 | Peterhead Nails Spa | peterheadnailspa@gmail.com | 1a220967bb8ef1e4 | SENT |
 | Barber Ozzy Banff | barberozzybanff@gmail.com | 1a2209681c21a9b2 | SENT |
+| Lilys Nail Bar Cardonald | lilysnail.glasgow@gmail.com | 1a220b31defab820 | SENT |
+| Beauty Unleashed Barrhead | beautyunleashedbycaitlin@gmail.com | 1a220b3220b82b3f | SENT |
+| Scarra Beauty Connel | racheldrazdoviene@gmail.com | 1a220b3272c11e54 | SENT |
+| Abbys Beauty Dumfries | abbylarissapiabeauty@gmail.com | 1a220b32ca8d1778 | SENT |
+| Elegant Nails Motherwell | elegantnailsmotherwell@gmail.com | 1a220b334b090639 | SENT |
+| Salon Collective Greenock | thesaloncollectiveno12@gmail.com | 1a220b36f94664e3 | SENT |
