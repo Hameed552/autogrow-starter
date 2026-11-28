@@ -434,3 +434,11 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Nail Factory Dingwall | nailfactory.highland@gmail.com | 1a22184b1e99d261 | SENT |
 | Apples for Jam Melrose | applesforjam14@gmail.com | 1a22184d9412eb69 | SENT |
 | Hair & Nails Laura Campbell Dumbarton | hairbylaurcampbell@gmail.com | 1a22184f95848ea3 | SENT |
+| J&J Nail Spa Alloa | jjnailalloa@gmail.com | 1a2219e9b2354923 | SENT |
+| Home Bakery Perth | homebakeryperth@gmail.com | 1a2219e9e6a11dcf | SENT |
+| Sky Nails Dundee | skynails0826@gmail.com | 1a2219ea22298eab | SENT |
+| Morris Park Nails Glasgow | morrisnails24@gmail.com | 1a2219ea4c0716e5 | SENT |
+| Queen Nails Edinburgh | queennails.edinburgh@gmail.com | 1a2219ea9032137b | SENT |
+| Angel Nail Spa Duke Street | angelnailspadukestreet@gmail.com | 1a2219eadc231d89 | SENT |
+| Happy Nails Glasgow | happynailsglasgow@gmail.com | 1a2219eae2fa26f1 | SENT |
+| Hollywood Nails Kilmarnock SK | sk.hollywoodnails@gmail.com | 1a2219eb3b13ed28 | SENT |
