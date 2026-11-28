@@ -418,3 +418,11 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Fashion Nails Paisley | Fashionnailspaisley@gmail.com | 1a221820abc0c0a2 | SENT |
 | KoKo Nails East Kilbride | kokonails.sapa.ek.uk@gmail.com | 1a221821383858f8 | SENT |
 | Luxury Nails Paisley | kariktran142@gmail.com | 1a221821b21a38a4 | SENT |
+| Sky Nails Stenhousemuir | Skynails.stenhousemuir@gmail.com | 1a2218377a18ffe3 | SENT |
+| L Nails Spa Perth | lnailsperth.uk@gmail.com | 1a221837b1e1901c | SENT |
+| Queens Beauty Dunfermline | queensbeautyandnails@gmail.com | 1a22183813bcb3bf | SENT |
+| Sky Nails Kirkcaldy | ptuan2526@gmail.com | 1a22183846d67902 | SENT |
+| Fairy Nails Fort William | szpetra0917@gmail.com | 1a2218392681d59d | SENT |
+| JXT Studio Muirhead | jentagx@gmail.com | 1a221839988074d7 | SENT |
+| Braids by Cathy Livingston | riria562002@gmail.com | 1a22183a0cb76578 | SENT |
+| Side-shed Barbers | sideshedbarbers@gmail.com | 1a22183a54423ecc | SENT |
