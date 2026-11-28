@@ -386,6 +386,13 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Ruby Nail Bar Morningside | rubynailmorningside@gmail.com | 1a2210afa3e85324 | SENT |
 | Royal Nails Troon | manhhung02all@gmail.com | 1a2210b01a976a4c | SENT |
 | Sky Nails Elgin | skynailsandspa10@gmail.com | 1a2210b083fdd685 | SENT |
-| AB Nails Aberdeen | felixdinh58@gmail.com | 1a2210b0e30ccd25 | SENT |
+| AB Nails Aberdeen | felixdinh58@gmail.com | 1a2210b0e30ccd25 | REPLIED-NO |
 | Ellie Jones Beauty Aberdeen | info.nbel@gmail.com | 1a2210b16b172357 | SENT |
 | Sky Nails Livingston | vvl01021999@gmail.com | 1a2210b1cb635b23 | SENT |
+| Magna Cuts Paisley | magnacutsbarbershop@gmail.com | 1a22128288d7f456 | SENT |
+| bona studio Paisley | bostudionails@gmail.com | 1a2212830f44e095 | SENT |
+| Beautybykara Paisley | karaenglish19@gmail.com | 1a2212838e5390bd | SENT |
+| London Nails Leith | hoanganh19960526@gmail.com | 1a221283eaca7cf5 | SENT |
+| Glamour Grace Hamilton | sleepingunderthestars88@gmail.com | 1a2212845009a91c | SENT |
+| Haddington Nails Spa | nailsspahaddington@gmail.com | 1a221287b901d083 | SENT |
+| Crown Nails Musselburgh | william21520@gmail.com | 1a22128828688c5f | SENT |
