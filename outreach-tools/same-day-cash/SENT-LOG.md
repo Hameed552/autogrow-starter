@@ -410,3 +410,11 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Nail Nook Jill Cumbernauld | thenailnookbyjill@gmail.com | 1a221642ac28ff92 | SENT |
 | Five Star Nails Cumbernauld | mrtran808@gmail.com | 1a2216430ce8ba2a | SENT |
 | Ash Nails Cumbernauld | ashnailsbrow@gmail.com | 1a2216438dff8438 | SENT |
+| Diamond Nails Shettleston | henrytinhdang@gmail.com | 1a22181e4c423993 | SENT |
+| Five Star Nails Bathgate | linhvannguyen1010@gmail.com | 1a22181ee0e2239c | SENT |
+| Nails By Sis Musselburgh | Ssiska.s.p@gmail.com | 1a22181f565a12b5 | SENT |
+| USA Nails Kilmarnock | tinhyeudanghien@gmail.com | 1a22181fdead4014 | SENT |
+| Issah Barbering Paisley | issahgroupofcomanyltd@gmail.com | 1a22182044d39afd | SENT |
+| Fashion Nails Paisley | Fashionnailspaisley@gmail.com | 1a221820abc0c0a2 | SENT |
+| KoKo Nails East Kilbride | kokonails.sapa.ek.uk@gmail.com | 1a221821383858f8 | SENT |
+| Luxury Nails Paisley | kariktran142@gmail.com | 1a221821b21a38a4 | SENT |
