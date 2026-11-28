@@ -274,4 +274,16 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Bear Dog Bakery Edinburgh | beardogbakery@gmail.com | 1a21f8d5f1ee1455 | SENT |
 | Istanbul Hair Cowdenbeath | atanastodorow2@gmail.com | 1a21f8d63bdca972 | SENT |
 | Fresh Line Barber Hamilton | freshlineb@gmail.com | 1a21f8d662ef27d5 | SENT |
-| Nonna's Bakery Bellshill | nonnasbakeryscotland@gmail.com | 1a21f8d6cd3ae6ee | SENT |
+| Nonna's Bakery Bellshill | nonnasbakeryscotland@gmail.com | 1a21f8d6cd3ae6ee | REPLIED-AUTO (office hours Mon–Fri) |
+| Coffee House Montrose | thecoffeeshouseltd@gmail.com | 1a21f6efc9d145d1 | BOUNCED |
+| Belle Avenue Aviemore | Belleavenuebyvikki@gmail.com | 1a21fab9d8ebbaf4 | SENT |
+| Had Barbers Haddington | robertkolod1987@gmail.com | 1a21faba080ea0c2 | SENT |
+| Toni's Barbers Ayr | kennymsal1234@gmail.com | 1a21faba6ea0bf03 | SENT |
+| Charisma Turkish Barbers | charismabarber1@gmail.com | 1a21fabadd5d2e61 | SENT |
+| Craig White Barbers Carluke | craigwhitebarbers@gmail.com | 1a21fabb168a356b | SENT |
+| Aras Barbers Carluke | pa66aa@gmail.com | 1a21fabb654fe2c2 | SENT |
+| The Cave Barber Aberdeen | thecavebarber@gmail.com | 1a21fabba0c0b6e3 | SENT |
+| Uncle B's Barber Aberdeen | unclebaberdeen@gmail.com | 1a21fabbe128d156 | SENT |
+| Fika Coffee Aberfeldy | fikacoffeeshops@gmail.com | 1a21fabff8e83fa3 | SENT |
+| Garden Cafe Pitlochry | gardencafepit@gmail.com | 1a21fac36f9e9b9d | SENT |
+| Toasted Stirling | toasted.stirling@gmail.com | 1a21fac3ad37dee4 | SENT |
