@@ -264,3 +264,14 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Tomorrow Is Another Day | tomorrowisanotherdaycoffee@gmail.com | 1a21f6f01b05355f | SENT |
 | Toni Marlow Barber | toni.marlow.tm@gmail.com | 1a21f6f07c6ba397 | SENT |
 | SD Barbering Stonehouse | scott.dillon173@gmail.com | 1a21f6f0b1516c31 | SENT |
+| Central Park Coffee Kilmarnock | centralparkcoffeeshop@gmail.com | 1a21f8d43ea36199 | SENT |
+| Dimension Barber Coatbridge | dimensionbarbercompany@gmail.com | 1a21f8d477679a59 | SENT |
+| Queen Nails Milngavie | queennailsmilngavie@gmail.com | 1a21f8d4bcdba9b7 | SENT |
+| Colour Nails Spa Airdrie | colournailandspa@gmail.com | 1a21f8d4f8197e43 | SENT |
+| Maxi Nails Largs | catbui19993790@gmail.com | 1a21f8d53f6245f9 | SENT |
+| Perfect Nails Denny | Daisydinh1986@gmail.com | 1a21f8d57f1836c1 | SENT |
+| Haven Nails Spa Grangemouth | havennails24@gmail.com | 1a21f8d5c589b863 | SENT |
+| Bear Dog Bakery Edinburgh | beardogbakery@gmail.com | 1a21f8d5f1ee1455 | SENT |
+| Istanbul Hair Cowdenbeath | atanastodorow2@gmail.com | 1a21f8d63bdca972 | SENT |
+| Fresh Line Barber Hamilton | freshlineb@gmail.com | 1a21f8d662ef27d5 | SENT |
+| Nonna's Bakery Bellshill | nonnasbakeryscotland@gmail.com | 1a21f8d6cd3ae6ee | SENT |
