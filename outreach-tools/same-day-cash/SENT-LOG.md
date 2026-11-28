@@ -369,3 +369,10 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Abbys Beauty Dumfries | abbylarissapiabeauty@gmail.com | 1a220b32ca8d1778 | SENT |
 | Elegant Nails Motherwell | elegantnailsmotherwell@gmail.com | 1a220b334b090639 | SENT |
 | Salon Collective Greenock | thesaloncollectiveno12@gmail.com | 1a220b36f94664e3 | SENT |
+| Royal Nails Uddingston | royalnailsspauddingston@gmail.com | 1a220d0b999844bc | SENT |
+| Chezs Nailz Inverurie | chezsnails@gmail.com | 1a220d0bed648da4 | SENT |
+| Kerry the Barber Inverurie | kerry.mantra@gmail.com | 1a220d0c8439602d | SENT |
+| Fancy Nails Irvine | caubemuadonguk@gmail.com | 1a220d0cd6ab530b | SENT |
+| Ardrossan Nails Spa | giuseanhnguyen2410@gmail.com | 1a220d0d441a8a54 | SENT |
+| Nail Queen Kelso | diamondbeautykelso@gmail.com | 1a220d0db6d2a6f9 | SENT |
+| Kelso Nails Spa | kelsonailsalon@gmail.com | 1a220d0e331b01cf | SENT |
