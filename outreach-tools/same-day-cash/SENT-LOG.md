@@ -375,4 +375,10 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Fancy Nails Irvine | caubemuadonguk@gmail.com | 1a220d0cd6ab530b | SENT |
 | Ardrossan Nails Spa | giuseanhnguyen2410@gmail.com | 1a220d0d441a8a54 | SENT |
 | Nail Queen Kelso | diamondbeautykelso@gmail.com | 1a220d0db6d2a6f9 | SENT |
-| Kelso Nails Spa | kelsonailsalon@gmail.com | 1a220d0e331b01cf | SENT |
+| Kelso Nails Spa | kelsonailsalon@gmail.com | 1a220d0e331b01cf | BOUNCED |
+| Dream Nails Perth | emmadaunguyen18@gmail.com | 1a220eda12b3bca0 | SENT |
+| Nail Lash Lounge Perth | nailandlashloungeperth@gmail.com | 1a220eda991e2cae | SENT |
+| Scone Barber Perth | ahmadyahmad194@gmail.com | 1a220edb38f0781c | SENT |
+| Tickled Trout Cafe Perth | tickledtroutcafe@gmail.com | 1a220edbb4bdcaf8 | SENT |
+| K1 Barbershop Clydebank | k1barbershop26@gmail.com | 1a220edc375113d6 | SENT |
+| Visualize Male Salon Dunfermline | kevingibb2468@gmail.com | 1a220ee08abe2858 | SENT |
