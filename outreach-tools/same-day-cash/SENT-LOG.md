@@ -323,3 +323,13 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Fire & Rye Bakery Stirling | Fireandrye.Bakery@gmail.com | 1a22021bcaa45d73 | SENT |
 | Heaven Nails Musselburgh | heavennailsmusselburgh@gmail.com | 1a22021c42cdd7d0 | SENT |
 | Musselburgh Nails Spa | kyduyen07122018@gmail.com | 1a22021ca36047c7 | SENT |
+| Luxury Nails Anniesland | luxurynailsspa0224@gmail.com | 1a2202e3a7bab4b3 | SENT |
+| Brow Nails Bar Springburn | duyet0979702420@gmail.com | 1a2202e42dc55b65 | SENT |
+| Leven Nails Spa | levennailsspa@gmail.com | 1a2202e4bbbcb872 | SENT |
+| Cave Barbers Peterhead | thecavepeterhead@gmail.com | 1a2202e50b03c3cd | SENT |
+| Legendary Barber Peterhead | alperenbarbersltd@gmail.com | 1a2202e577e7f895 | SENT |
+| Justformen Barbers Hamilton | justformen83@gmail.com | 1a2202e5e1522d71 | SENT |
+| Roman Cut Tollcross | Romancut782@gmail.com | 1a2202e667812e81 | SENT |
+| Cici Salon Gorgie | cicidossantos1@gmail.com | 1a2202e6d1a8da3d | SENT |
+| Brandanes Barber Rothesay | rothesaybrandanesbarber@gmail.com | 1a2202eaf84519eb | SENT |
+| Lochaber Cafe Fort William | lochabercafe@gmail.com | 1a2202eb6cfa980f | SENT |
