@@ -287,3 +287,11 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Fika Coffee Aberfeldy | fikacoffeeshops@gmail.com | 1a21fabff8e83fa3 | SENT |
 | Garden Cafe Pitlochry | gardencafepit@gmail.com | 1a21fac36f9e9b9d | SENT |
 | Toasted Stirling | toasted.stirling@gmail.com | 1a21fac3ad37dee4 | SENT |
+| Cafe Fairfull Paisley | cafefairfull@gmail.com | 1a21fc942e6445d8 | SENT |
+| Five Star Nails Paisley | tranthuong9191@gmail.com | 1a21fc946ab80123 | SENT |
+| Maggies Salon Kirkcaldy | maggiessalon@gmail.com | 1a21fc94d11e11c2 | SENT |
+| Rhianne Miller Galashiels | rhiannemillerwilsons@gmail.com | 1a21fc9503b9863f | SENT |
+| In-hoose Bakery Kirkintilloch | inhoosebakery@gmail.com | 1a21fc9549113341 | SENT |
+| Gentleman's Cuts Matty | matthewaitken7@gmail.com | 1a21fc95d64e4a21 | SENT |
+| Rowan Bakery Oban | rowanbakeryoban@gmail.com | 1a21fc9613b18e0d | SENT |
+| The Barber Shop Strathaven | thebarbershopstrathaven@gmail.com | 1a21fc9dbfda41af | SENT |
