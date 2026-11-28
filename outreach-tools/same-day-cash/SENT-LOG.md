@@ -403,3 +403,10 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Kilmarnock Nails Spa | kilmarnocknailsspa@gmail.com | 1a22146ad194c8ba | SENT |
 | Hollywood Nails Hamilton | khanhlinh2013linh@gmail.com | 1a22146b5e9937ab | SENT |
 | Forest Kitchen Grantown | forestkitchenandcafe@gmail.com | 1a22146bd99fc712 | SENT |
+| Lux Nails Colinton | huongnguyenngoc2007@gmail.com | 1a2216411f892301 | SENT |
+| Johnstone Nails | maithinguyen9086@gmail.com | 1a2216417557b5d0 | SENT |
+| Connect Barber Bishopton | connectbarberstudio@gmail.com | 1a221641d45e34d8 | SENT |
+| Ayr Nails Spa | ayrnailspa@gmail.com | 1a22164228ebd47d | SENT |
+| Nail Nook Jill Cumbernauld | thenailnookbyjill@gmail.com | 1a221642ac28ff92 | SENT |
+| Five Star Nails Cumbernauld | mrtran808@gmail.com | 1a2216430ce8ba2a | SENT |
+| Ash Nails Cumbernauld | ashnailsbrow@gmail.com | 1a2216438dff8438 | SENT |
