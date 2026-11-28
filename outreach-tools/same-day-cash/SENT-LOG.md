@@ -299,9 +299,19 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Atlas Barbers Musselburgh | atlasbarbers2024@gmail.com | 1a21fe6cad971e61 | SENT |
 | Golfers Barber North Berwick | golfersbarber@gmail.com | 1a21fe6d155be76d | SENT |
 | Kings Bakery Cafe Hamilton | kingsbakerycafe25@gmail.com | 1a21fe6d5e04a658 | SENT |
-| Syrian Style Barber Dingwall | ahmadfatarwi12@gmail.com | 1a21fe6da8cb1021 | SENT |
+| Syrian Style Barber Dingwall | ahmadfatarwi12@gmail.com | 1a21fe6da8cb1021 | BOUNCED |
 | Seleac Barber Aberdeen | seleacbarbers1@gmail.com | 1a21fe6de8804b89 | SENT |
-| Crofty's Bakery Perth | croftysbakery@gmail.com | 1a21fe6e43f78876 | SENT |
+| Crofty's Bakery Perth | croftysbakery@gmail.com | 1a21fe6e43f78876 | BOUNCED-FULL |
 | The Western Barber Perth | thewesternbarber@gmail.com | 1a21fe6eae2980b3 | SENT |
 | Cailness Cottage Cafe | cailness.cottage@gmail.com | 1a21fe6f038c817b | SENT |
 | Damfine Barbers Stirling | Damfinebarbers@gmail.com | 1a21fe6f446fa6cd | SENT |
+| Word of Mouth Cafe Morningside | jimmyrama75@gmail.com | 1a220042a8946d37 | SENT |
+| Pulse Barber Room Glasgow | pulsebarbers@gmail.com | 1a220042ecaf8ee2 | SENT |
+| Woodlands Cafe Duns | thewoodlandscafe.asb@gmail.com | 1a220043776e099f | SENT |
+| ST Barber Peebles | karmandali2002@gmail.com | 1a220043de90405b | SENT |
+| Beehive Shop Cafe Selkirk | kayweathered@gmail.com | 1a22004430a37f08 | SENT |
+| Nico Hair Salon Dundee | nicohairsalon@gmail.com | 1a220044afa99db2 | SENT |
+| Chief's Heid Barber Forfar | reikihazey@gmail.com | 1a220045370e1084 | SENT |
+| The Birch Dumbarton | thebirchdumbarton@gmail.com | 1a220045944b472e | SENT |
+| Oh Crumbs Bakeaway FW | ohcrumbsbakeaway@gmail.com | 1a220045e3901291 | SENT |
+| Cruive Cafe Bar Dunoon | cruivedunoon@gmail.com | 1a22004668b714d5 | SENT |
