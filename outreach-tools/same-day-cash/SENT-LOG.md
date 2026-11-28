@@ -333,3 +333,11 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Cici Salon Gorgie | cicidossantos1@gmail.com | 1a2202e6d1a8da3d | SENT |
 | Brandanes Barber Rothesay | rothesaybrandanesbarber@gmail.com | 1a2202eaf84519eb | SENT |
 | Lochaber Cafe Fort William | lochabercafe@gmail.com | 1a2202eb6cfa980f | SENT |
+| USA Nails Kirkcaldy | usanailskirkcady@gmail.com | 1a2203ef85eb6127 | SENT |
+| Sunny Nail Kirkcaldy | hopnguyen201102@gmail.com | 1a2203f00efc31ba | SENT |
+| Dalgety Bay Nail Studio | anna.tapanainen90@gmail.com | 1a2203f0826865a9 | SENT |
+| Venice Cafe Troon | thevenicetroon@gmail.com | 1a2203f0e5e789eb | SENT |
+| Chill Beauty Blairgowrie | apawlewicz2@gmail.com | 1a2203f170c8e6f9 | SENT |
+| Hair by Michelle Cathcart | michtrigg@gmail.com | 1a2203f1d8eb9fef | SENT |
+| Gentlemens Barber Banchory | thegentlemansbarberbanchory@gmail.com | 1a2203f25988a90e | SENT |
+| Linzis Barber Aberdeen | Linzisbarbers@gmail.com | 1a2203f2c45875d4 | SENT |
