@@ -295,3 +295,13 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Gentleman's Cuts Matty | matthewaitken7@gmail.com | 1a21fc95d64e4a21 | SENT |
 | Rowan Bakery Oban | rowanbakeryoban@gmail.com | 1a21fc9613b18e0d | SENT |
 | The Barber Shop Strathaven | thebarbershopstrathaven@gmail.com | 1a21fc9dbfda41af | SENT |
+| Nails Spa Prestwick | spasalon.uk@gmail.com | 1a21fe6c69dbd0a5 | SENT |
+| Atlas Barbers Musselburgh | atlasbarbers2024@gmail.com | 1a21fe6cad971e61 | SENT |
+| Golfers Barber North Berwick | golfersbarber@gmail.com | 1a21fe6d155be76d | SENT |
+| Kings Bakery Cafe Hamilton | kingsbakerycafe25@gmail.com | 1a21fe6d5e04a658 | SENT |
+| Syrian Style Barber Dingwall | ahmadfatarwi12@gmail.com | 1a21fe6da8cb1021 | SENT |
+| Seleac Barber Aberdeen | seleacbarbers1@gmail.com | 1a21fe6de8804b89 | SENT |
+| Crofty's Bakery Perth | croftysbakery@gmail.com | 1a21fe6e43f78876 | SENT |
+| The Western Barber Perth | thewesternbarber@gmail.com | 1a21fe6eae2980b3 | SENT |
+| Cailness Cottage Cafe | cailness.cottage@gmail.com | 1a21fe6f038c817b | SENT |
+| Damfine Barbers Stirling | Damfinebarbers@gmail.com | 1a21fe6f446fa6cd | SENT |
