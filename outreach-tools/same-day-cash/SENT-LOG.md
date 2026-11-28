@@ -345,6 +345,13 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Beauty Nails By Paula Renfrew | krzemeczka@gmail.com | 1a2205c884e2edb3 | SENT |
 | Saranail Bar Paisley | sarabavaghar19@gmail.com | 1a2205c8c1b63722 | SENT |
 | New York Nail Spa Motherwell | newyorknailspamotherwell@gmail.com | 1a2205c8e06b1e0f | SENT |
-| Ruby Nail Bar Motherwell | rubynaismotherwell@gmail.com | 1a2205c92a7388c9 | SENT |
+| Ruby Nail Bar Motherwell | rubynaismotherwell@gmail.com | 1a2205c92a7388c9 | BOUNCED |
 | Lux Nails Carluke | luxnail2025@gmail.com | 1a2205c963673726 | SENT |
 | Nails by Len Keith | nailsbylen72@gmail.com | 1a2205c9a6532e9f | SENT |
+| NailArt Studio Rutherglen | nailartstudiorutherglen@gmail.com | 1a22079d552a99aa | SENT |
+| Bathgate Nails Spa | bathgatenailsspa@gmail.com | 1a22079db24676c8 | SENT |
+| BeGlamorous Nails Kilsyth | beglamorousnailsbeauty@gmail.com | 1a22079de698ce64 | SENT |
+| TT Nails Spa Ayr | ttnailinayr@gmail.com | 1a22079e50ffabbb | SENT |
+| Haus of Skill Kilmarnock | angelaskilling@gmail.com | 1a22079eb6f44ae8 | SENT |
+| Barber Road Edinburgh | barberroadmanagement@gmail.com | 1a22079ee5e3987e | SENT |
+| Mass Barber Ferry Road | massbarbersedin@gmail.com | 1a22079f25a051c0 | SENT |
