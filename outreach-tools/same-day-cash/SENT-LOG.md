@@ -341,3 +341,10 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Hair by Michelle Cathcart | michtrigg@gmail.com | 1a2203f1d8eb9fef | SENT |
 | Gentlemens Barber Banchory | thegentlemansbarberbanchory@gmail.com | 1a2203f25988a90e | SENT |
 | Linzis Barber Aberdeen | Linzisbarbers@gmail.com | 1a2203f2c45875d4 | SENT |
+| LR Nail Bar Paisley | laurenangelaramsay@gmail.com | 1a2205c85969c65c | SENT |
+| Beauty Nails By Paula Renfrew | krzemeczka@gmail.com | 1a2205c884e2edb3 | SENT |
+| Saranail Bar Paisley | sarabavaghar19@gmail.com | 1a2205c8c1b63722 | SENT |
+| New York Nail Spa Motherwell | newyorknailspamotherwell@gmail.com | 1a2205c8e06b1e0f | SENT |
+| Ruby Nail Bar Motherwell | rubynaismotherwell@gmail.com | 1a2205c92a7388c9 | SENT |
+| Lux Nails Carluke | luxnail2025@gmail.com | 1a2205c963673726 | SENT |
+| Nails by Len Keith | nailsbylen72@gmail.com | 1a2205c9a6532e9f | SENT |
