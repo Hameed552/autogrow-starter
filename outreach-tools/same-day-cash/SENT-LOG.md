@@ -442,3 +442,15 @@ All sent from `hameedabdulhameed42@gmail.com` as threaded reopen emails unless n
 | Angel Nail Spa Duke Street | angelnailspadukestreet@gmail.com | 1a2219eadc231d89 | SENT |
 | Happy Nails Glasgow | happynailsglasgow@gmail.com | 1a2219eae2fa26f1 | SENT |
 | Hollywood Nails Kilmarnock SK | sk.hollywoodnails@gmail.com | 1a2219eb3b13ed28 | SENT |
+
+## Bounces marked 28 Nov (do not retry)
+| Issah Barbering Paisley | issahgroupofcomanyltd@gmail.com | BOUNCED |
+| Kelso Nails | kelsonailsalon@gmail.com | BOUNCED |
+| Ruby Nails Motherwell | rubynaismotherwell@gmail.com | BOUNCED |
+| Croftys Bakery | croftysbakery@gmail.com | BOUNCED |
+| Ahmad / invalid | ahmadfatarwi12@gmail.com | BOUNCED |
+| Coffee House Ltd | thecoffeeshouseltd@gmail.com | BOUNCED |
+| Billys Cafe Shotts | billywilliamsbarton@gmail.com | BOUNCED |
+| Eskquire Barbers | eskquirebarbers@gmail.com | BOUNCED |
+| Boss Barbers | bossbarbers84@gmail.com | BOUNCED |
+| john.selcraig@btinternet.com | blocked by recipient | BOUNCED |
